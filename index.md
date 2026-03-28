@@ -13,7 +13,7 @@ title: Supporting Our AI Overlords (SAO)
   }
 </style>
 
-## AI Agents and Data Systems
+## Overview
 
 **A workshop on agent-first data systems, agentic analytics, and the future of data infrastructure**
 
