@@ -17,7 +17,7 @@ title: Supporting Our AI Overlords (SAO)
 
 **A workshop on agent-first data systems, agentic analytics, and the future of data infrastructure**
 
-**Part of [CAIS 2026](https://www.caisconf.org/) — The ACM Conference on AI and Agentic Systems, May 26, 2026**
+**Part of [CAIS 2026](https://www.caisconf.org/) — The ACM Conference on AI and Agentic Systems, May 26, 2026, San Jose, California**
 
 Today's data systems were designed for a small number of careful human operators. But a growing share of analytics, data engineering, and ML workflows is increasingly being delegated to AI agents. This workshop will be held with [CAIS 2026](https://www.caisconf.org/) and brings together researchers and practitioners to study what changes when data systems meet AI agents.
 
@@ -168,7 +168,7 @@ The workshop will conclude with a panel discussion bringing together different p
 
 ## Program (Tentative)
 
-**The schedule below is tentative.**
+**May 26, 2026 — In person in San Jose, California. The schedule below is tentative.**
 
 | Time | Activity | Details |
 |---|---|---|
