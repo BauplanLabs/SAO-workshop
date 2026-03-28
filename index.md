@@ -17,15 +17,14 @@ title: Supporting Our AI Overlords (SAO)
 
 **A workshop on agent-first data systems, agentic analytics, and the future of data infrastructure**
 
-Today's data systems were designed for a small number of careful human operators. But a growing share of analytics, data engineering, and ML workflows is increasingly being delegated to AI agents. This workshop brings together researchers and practitioners to study what changes when data systems meet AI agents: stronger safety requirements, self-serve analytics, and new opportunities for agents to optimize the systems they run on.
+Today's data systems were designed for a small number of careful human operators. But a growing share of analytics, data engineering, and ML workflows is increasingly being delegated to AI agents. This workshop brings together researchers and practitioners to study what changes when data systems meet AI agents.
 
-We explore what it means to build **agent-first data systems**: systems that are safe, reproducible, efficient, and practical when the primary users are not humans, but autonomous or semi-autonomous agents acting at scale. The workshop builds on recent work such as [Supporting Our AI Overlords](https://arxiv.org/pdf/2509.00997) and [Trustworthy AI in the Agentic Lakehouse](https://arxiv.org/abs/2511.16402), which frame both the systems challenges and the safety requirements of this emerging design space.
-
-We solicit contributions spanning infrastructure, user workflows, evaluation, and agent-assisted system design, with an emphasis on real deployments and lessons from practice.
+Our goal is to explore what it means to build **agent-first data systems**: systems that are safe, reproducible, efficient, and practical when the primary users are not humans, but autonomous or semi-autonomous agents acting at scale. The workshop builds on recent work such as [Supporting Our AI Overlords](https://arxiv.org/pdf/2509.00997) and [Trustworthy AI in the Agentic Lakehouse](https://arxiv.org/abs/2511.16402), which frame both the systems challenges and the safety requirements of this emerging design space.
 
 [Organizers](#organizers) ·
 [Invited Speakers](#invited-speakers) ·
 [Call for Papers](#call-for-papers) ·
+[Awards](#awards) ·
 [Important Dates](#important-dates) ·
 [Panel](#panel) ·
 [Program](#program-tentative) ·
@@ -134,6 +133,17 @@ Our preliminary program committee includes:
 - **Eugene Wu** — Columbia University
 
 Additional members will be announced soon.
+
+---
+
+## Awards
+
+We are pleased to offer awards for outstanding contributions:
+
+- **Best Paper Award** — with a monetary prize, recognizing the strongest accepted contribution to the workshop.
+- **Best Student-Led Paper Award** — with a monetary prize, for the best paper with a student as the primary author.
+
+Awards will be presented at the end of the day during a social gathering with drinks and informal discussion. Stay tuned!
 
 ---
 
