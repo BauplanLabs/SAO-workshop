@@ -8,6 +8,9 @@ title: Supporting Our AI Overlords (SAO)
     border-radius: 50%;
     object-fit: cover;
   }
+  .page-header .btn {
+    display: none;
+  }
 </style>
 
 ## AI Agents and Data Systems
@@ -76,12 +79,12 @@ We solicit contributions spanning infrastructure, user workflows, evaluation, an
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="images/speaker-1.jpg" alt="Invited Speaker 1" width="180"><br><br>
+      <img src="images/speaker-placeholder.svg" alt="Invited Speaker 1" width="180" height="180" class="organizer-img"><br><br>
       <strong>Speaker TBD</strong><br>
       <em>Affiliation TBD</em>
     </td>
     <td align="center" width="50%">
-      <img src="images/speaker-2.jpg" alt="Invited Speaker 2" width="180"><br><br>
+      <img src="images/speaker-placeholder.svg" alt="Invited Speaker 2" width="180" height="180" class="organizer-img"><br><br>
       <strong>Speaker TBD</strong><br>
       <em>Affiliation TBD</em>
     </td>
