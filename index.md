@@ -15,11 +15,9 @@ title: Supporting Our AI Overlords (SAO)
 
 ## Overview
 
-**A workshop on agent-first data systems, agentic analytics, and the future of data infrastructure**
+**A workshop on agent-first data systems, agentic analytics, and the future of data infrastructure (part of [CAIS 2026](https://www.caisconf.org/), The ACM Conference on AI and Agentic Systems, May 26, 2026, San Jose, California)**
 
-**Part of [CAIS 2026](https://www.caisconf.org/), The ACM Conference on AI and Agentic Systems, May 26, 2026, San Jose, California**
-
-Today's data systems were designed for a small number of careful human operators. But a growing share of analytics, data engineering, and ML workflows is increasingly being delegated to AI agents. This workshop will be held with [CAIS 2026](https://www.caisconf.org/) and brings together researchers and practitioners to study what changes when data systems meet AI agents.
+Today's data systems were designed for a small number of careful human operators. But a growing share of analytics, data engineering, and ML workflows is increasingly being delegated to AI agents. This workshop will bring together researchers and practitioners to study what changes when data systems meet AI agents.
 
 Our goal is to explore what it means to build **agent-first data systems**: systems that are safe, reproducible, efficient, and practical when the primary users are not humans, but autonomous or semi-autonomous agents acting at scale. The workshop builds on recent work such as [Supporting Our AI Overlords](https://arxiv.org/pdf/2509.00997) and [Trustworthy AI in the Agentic Lakehouse](https://arxiv.org/abs/2511.16402), which frame both the systems challenges and the safety requirements of this emerging design space.
 
