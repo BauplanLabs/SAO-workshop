@@ -3,12 +3,22 @@ layout: default
 title: Supporting Our AI Overlords (SAO)
 ---
 
-# Supporting Our AI Overlords (SAO)
+<style>
+  .organizer-img {
+    border-radius: 50%;
+    object-fit: cover;
+  }
+</style>
+
 ## AI Agents and Data Systems
 
 **A workshop on agent-first data systems, agentic analytics, and the future of data infrastructure**
 
-AI agents are rapidly becoming first-class users of data platforms. This workshop brings together researchers and practitioners to study what changes when data systems meet AI agents: stronger safety requirements, self-serve analytics, and new opportunities for agents to optimize the systems they run on.
+Today's data systems were designed for a small number of careful human operators. But a growing share of analytics, data engineering, and ML workflows is increasingly being delegated to AI agents. This workshop brings together researchers and practitioners to study what changes when data systems meet AI agents: stronger safety requirements, self-serve analytics, and new opportunities for agents to optimize the systems they run on.
+
+We explore what it means to build **agent-first data systems**: systems that are safe, reproducible, efficient, and practical when the primary users are not humans, but autonomous or semi-autonomous agents acting at scale. The workshop builds on recent work such as [Supporting Our AI Overlords](https://arxiv.org/pdf/2509.00997) and [Trustworthy AI in the Agentic Lakehouse](https://arxiv.org/abs/2511.16402), which frame both the systems challenges and the safety requirements of this emerging design space.
+
+We solicit contributions spanning infrastructure, user workflows, evaluation, and agent-assisted system design, with an emphasis on real deployments and lessons from practice.
 
 [Organizers](#organizers) ·
 [Invited Speakers](#invited-speakers) ·
@@ -18,49 +28,39 @@ AI agents are rapidly becoming first-class users of data platforms. This worksho
 [Program](#program-tentative) ·
 [Contact](#contact)
 
----
-
-## Overview
-
-Today's data systems were designed for a small number of careful human operators. But a growing share of analytics, data engineering, and ML workflows is increasingly being delegated to AI agents.
-
-This workshop explores what it means to build **agent-first data systems**: systems that are safe, reproducible, efficient, and practical when the primary users are not humans, but autonomous or semi-autonomous agents acting at scale. It builds on recent work such as [Supporting Our AI Overlords](https://arxiv.org/pdf/2509.00997) and [Trustworthy AI in the Agentic Lakehouse](https://arxiv.org/abs/2511.16402), which frame both the systems challenges and the safety requirements of this emerging design space.
-
-We solicit contributions spanning infrastructure, user workflows, evaluation, and agent-assisted system design, with an emphasis on real deployments and lessons from practice.
-
 ## Organizers
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="images/elaine-ang.jpg" alt="Elaine Ang" width="160"><br><br>
+      <img src="images/elaine-ang.jpg" alt="Elaine Ang" width="160" height="160" class="organizer-img"><br><br>
       <strong>Elaine Ang</strong><br>
       <em>Columbia University</em>
     </td>
     <td align="center" width="33%">
-      <img src="images/shu-liu.jpg" alt="Shu Liu" width="160"><br><br>
+      <img src="images/shu-liu.jpg" alt="Shu Liu" width="160" height="160" class="organizer-img"><br><br>
       <strong>Shu Liu</strong><br>
       <em>UC Berkeley</em>
     </td>
     <td align="center" width="33%">
-      <img src="images/aditya-parameswaran.jpg" alt="Aditya Parameswaran" width="160"><br><br>
+      <img src="images/aditya-parameswaran.jpg" alt="Aditya Parameswaran" width="160" height="160" class="organizer-img"><br><br>
       <strong>Aditya Parameswaran</strong><br>
       <em>UC Berkeley</em>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="images/john-dickerson.jpg" alt="John Dickerson" width="160"><br><br>
+      <img src="images/john-dickerson.jpg" alt="John Dickerson" width="160" height="160" class="organizer-img"><br><br>
       <strong>John Dickerson</strong><br>
       <em>Mozilla AI</em>
     </td>
     <td align="center" width="33%">
-      <img src="images/jonathan-frankle.jpg" alt="Jonathan Frankle" width="160"><br><br>
+      <img src="images/jonathan-frankle.jpg" alt="Jonathan Frankle" width="160" height="160" class="organizer-img"><br><br>
       <strong>Jonathan Frankle</strong><br>
       <em>Databricks</em>
     </td>
     <td align="center" width="33%">
-      <img src="images/jacopo-tagliabue.jpg" alt="Jacopo Tagliabue" width="160"><br><br>
+      <img src="images/jacopo-tagliabue.jpg" alt="Jacopo Tagliabue" width="160" height="160" class="organizer-img"><br><br>
       <strong>Jacopo Tagliabue</strong><br>
       <em>Bauplan Labs</em>
     </td>
