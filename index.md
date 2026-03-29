@@ -15,11 +15,11 @@ title: Supporting Our AI Overlords (SAO)
 
 ## Overview
 
-**A workshop on agent-first data systems, agentic analytics, and the future of data infrastructure (part of [CAIS 2026](https://www.caisconf.org/), The ACM Conference on AI and Agentic Systems, May 26, 2026, San Jose, California)**
+**A workshop on agent-first data systems, agents for data science and analytics, and the future of data systems (part of [CAIS 2026](https://www.caisconf.org/), The ACM Conference on AI and Agentic Systems, May 26, 2026, San Jose, California)**
 
-Today's data systems were designed for a small number of careful human operators. But a growing share of analytics, data engineering, and ML workflows is increasingly being delegated to AI agents. This workshop will bring together researchers and practitioners to study what changes when data systems meet AI agents.
+Today's data systems were designed for a small number of careful human operators. But a growing share of analytics, data engineering, and ML workflows is increasingly being delegated to AI agents. This workshop will bring together researchers and practitioners to study how data systems should evolve for agents, and how agents themselves can help shape better systems.
 
-Our goal is to explore what it means to build **agent-first data systems**: systems that are safe, reproducible, efficient, and practical when the primary users are not humans, but autonomous or semi-autonomous agents acting at scale. The workshop builds on recent work such as [Supporting Our AI Overlords](https://arxiv.org/pdf/2509.00997) and [Trustworthy AI in the Agentic Lakehouse](https://arxiv.org/abs/2511.16402), which frame both the systems challenges and the safety requirements of this emerging design space.
+The workshop is born out of recent work in the data management space (e.g. [Supporting Our AI Overlords](https://arxiv.org/pdf/2509.00997) and [Trustworthy AI in the Agentic Lakehouse](https://arxiv.org/abs/2511.16402)), but generalizes to other directions at the intersection of data and agents. Our goal is to explore the full design space where **data systems and AI agents meet**: from building safer infrastructure to leveraging agents to optimize data systems themselves.
 
 [Organizers](#organizers) ·
 [Invited Speakers](#invited-speakers) ·
@@ -29,6 +29,8 @@ Our goal is to explore what it means to build **agent-first data systems**: syst
 [Panel](#panel) ·
 [Program](#program-tentative) ·
 [Contact](#contact)
+
+The workshop is sponsored by [Mozilla AI](https://www.mozilla.ai/) and [Bauplan Labs](https://www.bauplanlabs.com/).
 
 ## Organizers
 
@@ -99,11 +101,14 @@ Our goal is to explore what it means to build **agent-first data systems**: syst
 
 ## Call for Papers
 
-We invite submissions on the emerging intersection of **AI agents** and **data systems**.
+We invite submissions on the emerging intersection of **AI agents** and **data systems**. Drawing from the workshop [manifesto](papers/CAIS_2026_workshop_online.pdf), we are mainly interested in contributions along these research directions:
 
-As agentic workloads expand across analytics, engineering, and machine learning, data infrastructure must evolve to support non-human users that operate at scale, under concurrency, and often under low-trust assumptions.
+1. **Productionizing agentic workloads.** Capturing the nuances of agentic reasoning and engineering techniques across the entire data lifecycle.
+2. **Optimizing agent semantics.** Exploring the transition from deterministic SQL execution to agent-driven pipelines.
+3. **Data systems for agents.** Rethinking core system guarantees from the ground up to support non-human workloads.
+4. **Agents for system design.** Exploring the "self-driving" potential of the stack, where agents autonomously design, tune, and maintain the very infrastructure they inhabit.
 
-Topics of interest include, but are not limited to:
+Examples of topics include, but are not limited to:
 
 - Agent-first OLAP architectures for safe, reproducible, and cost-efficient analytics
 - Agentic analytics workflows, including human-in-the-loop patterns and production failure modes
@@ -112,6 +117,9 @@ Topics of interest include, but are not limited to:
 - War stories and postmortems from production deployments
 - Agentic workflows for data engineering and data science
 - Operational reliability for agent-driven automation, including observability, guardrails, governance, and cost controls
+- Work-in-progress and early-stage results that showcase novel ideas or promising directions, even if not yet fully evaluated
+
+Generally speaking, we will be open to creative interpretations of the workshop themes as long as contributions sit at the intersection of data and agents.
 
 ### Submission formats
 
@@ -120,19 +128,22 @@ We solicit:
 - **Short research and position papers**: up to 4 pages plus references
 - **Late-breaking results / extended abstracts**: up to 2 pages plus references
 
-Submissions will be reviewed in a **single-blind** process by members of the committee. Accepted contributions will be presented at the workshop, and accepted materials will also be archived on the workshop website.
+Submissions will be reviewed in a **single-blind** process by members of the committee. Accepted contributions will be presented at the workshop, and accepted materials will also be archived on the workshop website. For more background, recent relevant literature, and inspiring use cases, see our [workshop proposal](papers/CAIS_2026_workshop_online.pdf).
 
 ### Program Committee
 
-Our preliminary program committee includes:
-
 - **Aldrin Montana** — Bauplan Labs
-- **Audrey Cheng** — UC Berkeley
+- **Alperen Keleş** — University of Maryland
 - **Davide Eynard** — Mozilla AI
-- **Federico Bianchi** — Together AI
 - **Eugene Wu** — Columbia University
-
-Additional members will be announced soon.
+- **Federico Bianchi** — Together AI
+- **Gaetano Rossiello** — IBM
+- **Jeremiah Milbauer** — CMU
+- **Nandana Mihindukulasooriya** — IBM
+- **Nicole Rose Schneider** — University of Maryland
+- **Sesh Nalla** — Datadog
+- **Stephanie Wang** — MongoDB
+- **Till Döhmen** — MotherDuck
 
 ---
 
