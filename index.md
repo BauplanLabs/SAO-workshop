@@ -143,6 +143,7 @@ Submissions will be reviewed in a **single-blind** process by members of the com
 - **Nicole Rose Schneider** — University of Maryland
 - **Sesh Nalla** — Datadog
 - **Stephanie Wang** — MongoDB
+- **Tao Ye** — Lyft
 - **Till Döhmen** — MotherDuck
 
 ---
