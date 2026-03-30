@@ -19,18 +19,24 @@ title: Supporting Our AI Overlords (SAO)
 
 Today's data systems were designed for a small number of careful human operators. But a growing share of analytics, data engineering, and ML workflows is increasingly being delegated to AI agents. This workshop will bring together researchers and practitioners to study how data systems should evolve for agents, and how agents themselves can help shape better systems.
 
-The workshop is born out of recent work in the data management space (e.g. [Supporting Our AI Overlords](https://arxiv.org/pdf/2509.00997) and [Trustworthy AI in the Agentic Lakehouse](https://arxiv.org/abs/2511.16402)), but generalizes to other directions at the intersection of data and agents. Our goal is to explore the full design space where **data systems and AI agents meet**: from building safer infrastructure to leveraging agents to optimize data systems themselves.
+The workshop is born out of recent work in data management (e.g. [Supporting Our AI Overlords](https://arxiv.org/pdf/2509.00997) and [Trustworthy AI in the Agentic Lakehouse](https://arxiv.org/abs/2511.16402)), but generalizes to other directions at the intersection of data and agents. Our goal is to explore the full design space where **data systems and AI agents meet**, and we are open to creative interpretations of the theme (including demos, lessons from the trenches, preliminary results, controversial positions, failure stories).
 
-[Organizers](#organizers) ·
-[Invited Speakers](#invited-speakers) ·
-[Call for Papers](#call-for-papers) ·
-[Awards](#awards) ·
-[Important Dates](#important-dates) ·
-[Panel](#panel) ·
-[Program](#program-tentative) ·
-[Contact](#contact)
+- [Organizers](#organizers)
+- [Invited Speakers](#invited-speakers)
+- [Call for Papers](#call-for-papers)
+- [Awards](#awards)
+- [Important Dates](#important-dates)
+- [Panel](#panel)
+- [Program](#program-tentative)
+- [Contact](#contact)
 
-The workshop is sponsored by [Mozilla AI](https://www.mozilla.ai/) and [Bauplan Labs](https://www.bauplanlabs.com/).
+The workshop is sponsored by <a href="https://www.mozilla.ai/" target="_blank">Mozilla AI</a> and <a href="https://www.bauplanlabs.com/" target="_blank">Bauplan Labs</a>.
+
+<p>
+  <a href="https://www.mozilla.ai/" target="_blank"><img src="images/mozillaai-logo-black.png" alt="Mozilla AI" height="40"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.bauplanlabs.com/" target="_blank"><img src="images/bauplan-logo-color-on-white.png" alt="Bauplan Labs" height="40"></a>
+</p>
 
 ## Organizers
 
@@ -163,7 +169,7 @@ Awards will be presented at the end of the day during a social gathering with dr
 
 | Milestone | Date |
 |---|---|
-| Submission deadline | Thur, April 30, 2026 |
+| Submission deadline | Thu, April 30, 2026 |
 | Accept / reject notification | Fri, May 8, 2026 |
 | Camera-ready | Tue, May 12, 2026 |
 | Workshop | Tue, May 26, 2026 |
