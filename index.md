@@ -35,7 +35,7 @@ The workshop is sponsored by <a href="https://www.mozilla.ai/" target="_blank">M
 <p>
   <a href="https://www.mozilla.ai/" target="_blank"><img src="images/mozillaai-logo-black.png" alt="Mozilla AI" height="40"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.bauplanlabs.com/" target="_blank"><img src="images/bauplan-logo-color-on-white.png" alt="Bauplan Labs" height="40"></a>
+  <a href="https://www.bauplanlabs.com/" target="_blank"><img src="images/bauplan-logo-color-on-white.png" alt="Bauplan Labs" height="60"></a>
 </p>
 
 ## Organizers
