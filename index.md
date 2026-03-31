@@ -140,6 +140,7 @@ Submissions will be reviewed in a **single-blind** process by members of the com
 
 - **Aldrin Montana** — Bauplan Labs
 - **Alperen Keleş** — University of Maryland
+- **Bonnie Xu** — OpenAI
 - **Davide Eynard** — Mozilla AI
 - **Eugene Wu** — Columbia University
 - **Federico Bianchi** — Together AI
