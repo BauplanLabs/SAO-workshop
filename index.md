@@ -127,6 +127,8 @@ Examples of topics include, but are not limited to:
 
 Generally speaking, we will be open to creative interpretations of the workshop themes as long as contributions sit at the intersection of data and agents.
 
+**[Submit your paper here](https://sao-cais26workshop.hotcrp.com/)**
+
 ### Submission formats
 
 We solicit:
@@ -134,7 +136,7 @@ We solicit:
 - **Short research and position papers**: up to 4 pages plus references
 - **Late-breaking results / extended abstracts**: up to 2 pages plus references
 
-Submissions will be reviewed in a **single-blind** process by members of the committee. Accepted contributions will be presented at the workshop, and accepted materials will also be archived on the workshop website. For more background, recent relevant literature, and inspiring use cases, see our [workshop proposal](papers/CAIS_2026_workshop_online.pdf).
+Submissions will be reviewed in a **single-blind** process by members of the committee. We welcome overlapping submissions with other venues. Extended abstracts are particularly encouraged for work-in-progress ideas and early-stage explorations. Production war stories and postmortems need not be technically novel as long as they provide interesting insights and lessons relevant to the workshop theme. Accepted contributions will be presented at the workshop, and accepted materials will also be archived on the workshop website. For more background, recent relevant literature, and inspiring use cases, see our [workshop proposal](papers/CAIS_2026_workshop_online.pdf).
 
 ### Program Committee
 
