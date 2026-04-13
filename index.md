@@ -136,7 +136,9 @@ We solicit:
 - **Short research and position papers**: up to 4 pages plus references
 - **Late-breaking results / extended abstracts**: up to 2 pages plus references
 
-Submissions will be reviewed in a **single-blind** process by members of the committee. We welcome overlapping submissions with other venues. Extended abstracts are particularly encouraged for work-in-progress ideas and early-stage explorations. Production war stories and postmortems need not be technically novel as long as they provide interesting insights and lessons relevant to the workshop theme. Accepted contributions will be presented at the workshop, and accepted materials will also be archived on the workshop website. For more background, recent relevant literature, and inspiring use cases, see our [workshop proposal](papers/CAIS_2026_workshop_online.pdf).
+*Format*: The ACM sigconf double-column format ([templates here, including Overleaf](https://www.acm.org/publications/proceedings-template)) should be used for all submissions.
+
+Submissions will be reviewed in a **single-blind** process by members of the committee. We welcome overlapping submissions with other venues: SAO is non-archival, but accepted papers will be featured on the website. Extended abstracts are particularly encouraged for work-in-progress ideas and early-stage explorations. Production war stories and postmortems need not be technically novel as long as they provide interesting insights and lessons relevant to the workshop theme. Accepted contributions will be presented at the workshop, and accepted materials will also be archived on the workshop website. For more background, recent relevant literature, and inspiring use cases, see our [workshop proposal](papers/CAIS_2026_workshop_online.pdf).
 
 ### Program Committee
 
