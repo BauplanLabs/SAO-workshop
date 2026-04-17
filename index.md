@@ -98,7 +98,8 @@ The workshop is sponsored by <a href="https://www.mozilla.ai/" target="_blank">M
 
 ### Speaker bios
 
-**Andy Pavlo** — Andy Pavlo is an Associate Professor with Indefinite Tenure of Databaseology in the Computer Science Department at Carnegie Mellon University. His (unnatural) infatuation with database systems has inadvertently caused him to incur several distinctions, such as IEEE TCDE Ramez Elmasri Outstanding Database Education Award (2026), VLDB Early Career Award (2021), NSF CAREER (2019), Sloan Fellowship (2018), and the ACM SIGMOD Jim Gray Best Dissertation Award (2014). He also was the CEO & co-founder of the OtterTune database tuning start-up (2020-2024), but it died an untimely death. He is currently the CEO and co-founder of "SO-YOU-DONT-HAVE-TO INCORPORATED'); DROP TABLE companies; --" (2025-). Andy earned his Ph.D. in 2013 at Brown University under Stan Zdonik and Mike Stonebraker. He knows some pile about databases. 
+**Andy Pavlo** — Andy Pavlo is an Associate Professor with Indefinite Tenure of Databaseology in the Computer Science Department at Carnegie Mellon University. His (unnatural) infatuation with database systems has inadvertently caused him to incur several distinctions, such as IEEE TCDE Ramez Elmasri Outstanding Database Education Award (2026), VLDB Early Career Award (2021), NSF CAREER (2019), Sloan Fellowship (2018), and the ACM SIGMOD Jim Gray Best Dissertation Award (2014). He also was the CEO & co-founder of the OtterTune database tuning start-up (2020-2024), but it died an untimely death. He is currently the CEO and co-founder of "SO-YOU-DONT-HAVE-TO INCORPORATED'); DROP TABLE companies; --" (2025-). Andy earned his Ph.D. in 2013 at Brown University under Stan Zdonik and Mike Stonebraker. He knows some pile about databases.
+
 **Speaker TBD** — Bio TBD.
 
 ---
