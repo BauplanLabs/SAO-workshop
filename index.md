@@ -182,7 +182,21 @@ Awards will be presented at the end of the day during a social gathering with dr
 
 ## Panel
 
-The workshop will conclude with a panel discussion bringing together different perspectives on agentic data systems, from infrastructure and optimization to safety and deployment. Panelists will be added soon.
+The workshop will conclude with a panel discussion bringing together different perspectives on agentic data systems, from infrastructure and optimization to safety and deployment. More panelists will be added soon.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/Ashish_Kumar.jpg" alt="Ashish Kumar" width="180" height="180" class="organizer-img"><br><br>
+      <strong>Ashish Kumar</strong><br>
+      <em>MongoDB</em>
+    </td>
+  </tr>
+</table>
+
+### Panelist bios
+
+**Ashish Kumar** — Ashish Kumar is a Technical Fellow at MongoDB, where he focuses on architectural improvements across the company's product offerings. He joined MongoDB through the acquisition of Grainite, where he was Co-Founder and CEO. At Grainite, he led the development of a first-of-its-kind transactional database unifying native stream storage and parallel processing. Previously, Ashish spent 11 years as a Senior Engineering Director at Google, most recently leading the teams responsible for BigTable, Spanner, Datastore, and Firestore. During his tenure at Google, he also managed teams across Hardware, Display Ads, and Developer Tools. Earlier in his career, Ashish held executive roles at Sun Microsystems and infrastructure startups. He holds a Bachelor's in Business from SRCC, Delhi University.
 
 ---
 
