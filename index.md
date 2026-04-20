@@ -85,7 +85,7 @@ The workshop is sponsored by <a href="https://www.mozilla.ai/" target="_blank">M
   <tr>
     <td align="center" width="33%">
       <img src="images/andy-pavlo.JPG" alt="Andy Pavlo" width="160" height="160" class="organizer-img"><br><br>
-      <strong>Andy Pavlo</strong> (left in the picture)<br>
+      <strong>Andy Pavlo</strong> (left)<br>
       <em>Carnegie Mellon University</em>
     </td>
     <td align="center" width="33%">
