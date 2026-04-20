@@ -19,7 +19,7 @@ title: Supporting Our AI Overlords (SAO)
 
 Today's data systems were designed for a small number of careful human operators. But a growing share of analytics, data engineering, and ML workflows is increasingly being delegated to AI agents. This workshop will bring together researchers and practitioners to study how data systems should evolve for agents, and how agents themselves can help shape better systems.
 
-The workshop is born out of recent work in data management (e.g. [Supporting Our AI Overlords](https://arxiv.org/pdf/2509.00997) and [Trustworthy AI in the Agentic Lakehouse](https://arxiv.org/abs/2511.16402)), but generalizes to other directions at the intersection of data and agents. Our goal is to explore the full design space where **data systems and AI agents meet**, and we are open to creative interpretations of the theme (including demos, lessons from the trenches, preliminary results, controversial positions, failure stories).
+The workshop is born out of recent work in data management (e.g. [Supporting Our AI Overlords](https://arxiv.org/pdf/2509.00997) and [Trustworthy AI in the Agentic Lakehouse](https://arxiv.org/abs/2511.16402)), but generalizes to other directions at the intersection of data and agents. Our goal is to explore the full design space where **data systems and AI agents meet**, and we are open to creative interpretations of the theme (including demos, lessons from the trenches, preliminary results, controversial positions, and failure stories).
 
 - [Organizers](#organizers)
 - [Invited Speakers](#invited-speakers)
@@ -83,13 +83,18 @@ The workshop is sponsored by <a href="https://www.mozilla.ai/" target="_blank">M
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="images/andy-pavlo.JPG" alt="Andy Pavlo" width="180" height="180" class="organizer-img"><br><br>
-      <strong>Andy Pavlo</strong> (Academic Keynote, left)<br>
+    <td align="center" width="33%">
+      <img src="images/andy-pavlo.JPG" alt="Andy Pavlo" width="160" height="160" class="organizer-img"><br><br>
+      <strong>Andy Pavlo</strong> (left in the picture)<br>
       <em>Carnegie Mellon University</em>
     </td>
-    <td align="center" width="50%">
-      <img src="images/speaker-placeholder.svg" alt="Invited Speaker 2" width="180" height="180" class="organizer-img"><br><br>
+    <td align="center" width="33%">
+      <img src="images/Aaron_Katz.jpeg" alt="Aaron Katz" width="160" height="160" class="organizer-img"><br><br>
+      <strong>Aaron Katz</strong><br>
+      <em>ClickHouse, Inc.</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="images/speaker-placeholder.svg" alt="Invited Speaker 3" width="160" height="160" class="organizer-img"><br><br>
       <strong>Speaker TBD</strong><br>
       <em>Affiliation TBD</em>
     </td>
@@ -99,6 +104,8 @@ The workshop is sponsored by <a href="https://www.mozilla.ai/" target="_blank">M
 ### Speaker bios
 
 **Andy Pavlo** — Andy Pavlo is an Associate Professor with Indefinite Tenure of Databaseology in the Computer Science Department at Carnegie Mellon University. His (unnatural) infatuation with database systems has inadvertently caused him to incur several distinctions, such as IEEE TCDE Ramez Elmasri Outstanding Database Education Award (2026), VLDB Early Career Award (2021), NSF CAREER (2019), Sloan Fellowship (2018), and the ACM SIGMOD Jim Gray Best Dissertation Award (2014). He also was the CEO & co-founder of the OtterTune database tuning start-up (2020-2024), but it died an untimely death. He is currently the CEO and co-founder of "SO-YOU-DONT-HAVE-TO INCORPORATED'); DROP TABLE companies; --" (2025-). Andy earned his Ph.D. in 2013 at Brown University under Stan Zdonik and Mike Stonebraker. He knows some pile about databases.
+
+**Aaron Katz** — Aaron Katz is currently Co-Founder and CEO of ClickHouse, Inc., the company behind ClickHouse, the industry-leading online analytical processing database management system. With more than 20 years of experience building and leading global teams, Aaron brings a unique perspective with a focus on international business, scale, and distribution. Most recently, Aaron led the GTM efforts at Elastic (NYSE: ESTC) between 2014 and 2020 where he helped grow the company from ~$5M in revenue when he joined to >$500M in revenue as a Section 16 officer when he left. Prior to Elastic, Aaron spent 12 years (2002 - 2014) at salesforce.com (NYSE: CRM) where he held a variety of international sales leadership roles and helped grow the company from a private, ~200 employee startup to a >$200B market leader. Aaron holds a Bachelor's of Science degree in Managerial Economics from the University of California, Davis and lives in the San Francisco Bay Area with his wife and two children.
 
 **Speaker TBD** — Bio TBD.
 
@@ -182,12 +189,12 @@ Awards will be presented at the end of the day during a social gathering with dr
 
 ## Panel
 
-The workshop will conclude with a panel discussion bringing together different perspectives on agentic data systems, from infrastructure and optimization to safety and deployment. More panelists will be added soon.
+The workshop will conclude with a panel discussion bringing together different perspectives on agentic data systems, from infrastructure and optimization to safety and deployment. The panel will be moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/). More panelists will be added soon.
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="images/Ashish_Kumar.jpg" alt="Ashish Kumar" width="180" height="180" class="organizer-img"><br><br>
+      <img src="images/Ashish_Kumar.jpg" alt="Ashish Kumar" width="160" height="160" class="organizer-img"><br><br>
       <strong>Ashish Kumar</strong><br>
       <em>MongoDB</em>
     </td>
@@ -202,18 +209,20 @@ The workshop will conclude with a panel discussion bringing together different p
 
 ## Program (Tentative)
 
-**May 26, 2026 — In person in San Jose, California. The schedule below is tentative.**
+**May 26, 2026 — In person in San Jose, California. The schedule below is subject to change.**
 
 | Time | Activity | Details |
 |---|---|---|
-| 15 min | Welcome | Introductory remarks |
-| 40 min | Keynote 1 | Academic keynote |
-| 40 min | Contributions | Lightning talks / spotlights |
-| 40 min | Keynote 2 | Industry keynote |
-| 40 min | Contributions | Lightning talks / spotlights |
-| 60 min | Panel | Moderated by the organizers |
-| 5 min | Closing | Closing remarks |
-| After hours | Pizza, drinks and awards | Informal discussion and awards |
+| 1:00 – 1:10 PM | Welcome | Introductory remarks |
+| 1:10 – 1:50 PM | Keynote 1 | Academic keynote — Andy Pavlo |
+| 1:50 – 2:30 PM | Keynote 2 | Industry keynote — Aaron Katz |
+| 2:30 – 2:50 PM | Contributions | Lightning talks |
+| 2:50 – 3:00 PM | Break | Coffee break |
+| 3:00 – 3:25 PM | Contributions | Lightning talks |
+| 3:25 – 4:05 PM | Keynote 3 | Invited keynote — TBD |
+| 4:05 – 4:55 PM | Panel | Moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/) |
+| 4:55 – 5:00 PM | Closing | Closing remarks |
+| After hours | Pizza, drinks, and awards | Informal discussion and awards |
 
 ---
 
