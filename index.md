@@ -180,7 +180,7 @@ Awards will be presented at the end of the day during a social gathering with dr
 
 | Milestone | Date |
 |---|---|
-| Submission deadline | Thu, April 30, 2026 |
+| Submission deadline | Tue, May 5, 2026 |
 | Accept / reject notification | Fri, May 8, 2026 |
 | Camera-ready | Tue, May 12, 2026 |
 | Workshop | Tue, May 26, 2026 |
@@ -198,12 +198,19 @@ The workshop will conclude with a panel discussion bringing together different p
       <strong>Ashish Kumar</strong><br>
       <em>MongoDB</em>
     </td>
+    <td align="center" width="50%">
+      <img src="images/Anant_Jhingran.png" alt="Anant Jhingran" width="160" height="160" class="organizer-img"><br><br>
+      <strong>Anant Jhingran</strong><br>
+      <em>IBM Software</em>
+    </td>
   </tr>
 </table>
 
 ### Panelist bios
 
 **Ashish Kumar** — Ashish Kumar is a Technical Fellow at MongoDB, where he focuses on architectural improvements across the company's product offerings. He joined MongoDB through the acquisition of Grainite, where he was Co-Founder and CEO. At Grainite, he led the development of a first-of-its-kind transactional database unifying native stream storage and parallel processing. Previously, Ashish spent 11 years as a Senior Engineering Director at Google, most recently leading the teams responsible for BigTable, Spanner, Datastore, and Firestore. During his tenure at Google, he also managed teams across Hardware, Display Ads, and Developer Tools. Earlier in his career, Ashish held executive roles at Sun Microsystems and infrastructure startups. He holds a Bachelor's in Business from SRCC, Delhi University.
+
+**Anant Jhingran** — Anant Jhingran is CTO for IBM Software, a role he took on when StepZen — the GraphQL API company he co-founded and led as CEO — was acquired by IBM in February 2023. Before StepZen, he helped take Apigee public and through its acquisition by Google. Earlier at IBM, he was an IBM Fellow and CTO of the Information Management Division, shipping products that generated billions in revenue across IBM and Apigee. He holds a PhD in database systems from UC Berkeley and is a Distinguished Alumnus of IIT Delhi, with over a dozen patents and 20+ technical papers to his name.
 
 ---
 
@@ -214,8 +221,8 @@ The workshop will conclude with a panel discussion bringing together different p
 | Time | Activity | Details |
 |---|---|---|
 | 1:00 – 1:10 PM | Welcome | Introductory remarks |
-| 1:10 – 1:50 PM | Keynote 1 | Academic keynote — Andy Pavlo |
-| 1:50 – 2:30 PM | Keynote 2 | Industry keynote — Aaron Katz |
+| 1:10 – 1:50 PM | Keynote 1 | Industry keynote — Aaron Katz |
+| 1:50 – 2:30 PM | Keynote 2 | Academic keynote — Andy Pavlo |
 | 2:30 – 2:50 PM | Contributions | Lightning talks |
 | 2:50 – 3:00 PM | Break | Coffee break |
 | 3:00 – 3:25 PM | Contributions | Lightning talks |
