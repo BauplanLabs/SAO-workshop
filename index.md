@@ -156,6 +156,7 @@ Submissions will be reviewed in a **single-blind** process by members of the com
 - **Federico Bianchi** — Together AI
 - **Gaetano Rossiello** — IBM
 - **Jeremiah Milbauer** — CMU
+- **Joseph Axisa** — Google
 - **Nandana Mihindukulasooriya** — IBM
 - **Nicole Rose Schneider** — University of Maryland
 - **Sesh Nalla** — Datadog
