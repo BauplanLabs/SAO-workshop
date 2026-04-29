@@ -94,9 +94,9 @@ The workshop is sponsored by <a href="https://www.mozilla.ai/" target="_blank">M
       <em>ClickHouse, Inc.</em>
     </td>
     <td align="center" width="33%">
-      <img src="images/speaker-placeholder.svg" alt="Invited Speaker 3" width="160" height="160" class="organizer-img"><br><br>
-      <strong>Speaker TBD</strong><br>
-      <em>Affiliation TBD</em>
+      <img src="images/Nikita-Shamgunov.png" alt="Nikita Shamgunov" width="160" height="160" class="organizer-img"><br><br>
+      <strong>Nikita Shamgunov</strong><br>
+      <em>Neon / Databricks</em>
     </td>
   </tr>
 </table>
@@ -107,7 +107,7 @@ The workshop is sponsored by <a href="https://www.mozilla.ai/" target="_blank">M
 
 **Aaron Katz** — Aaron Katz is currently Co-Founder and CEO of ClickHouse, Inc., the company behind ClickHouse, the industry-leading online analytical processing database management system. With more than 20 years of experience building and leading global teams, Aaron brings a unique perspective with a focus on international business, scale, and distribution. Most recently, Aaron led the GTM efforts at Elastic (NYSE: ESTC) between 2014 and 2020 where he helped grow the company from ~$5M in revenue when he joined to >$500M in revenue as a Section 16 officer when he left. Prior to Elastic, Aaron spent 12 years (2002 - 2014) at salesforce.com (NYSE: CRM) where he held a variety of international sales leadership roles and helped grow the company from a private, ~200 employee startup to a >$200B market leader. Aaron holds a Bachelor's of Science degree in Managerial Economics from the University of California, Davis and lives in the San Francisco Bay Area with his wife and two children.
 
-**Speaker TBD** — Bio TBD.
+**Nikita Shamgunov** — Nikita Shamgunov is a database systems entrepreneur and engineer, and the co-founder and CEO of Neon, the serverless Postgres company acquired by Databricks in 2025. Before Neon, he co-founded SingleStore, formerly MemSQL, where he served as founding CTO and then CEO, helping build a distributed SQL database for real-time operational and analytical workloads. Earlier in his career, he worked on SQL Server at Microsoft and was a senior engineer at Facebook. Across two decades in database infrastructure, he has worked on systems spanning on-prem engines, distributed SQL, cloud-native databases, and serverless Postgres — and now sits at the intersection of databases and AI-agent workloads.
 
 ---
 
@@ -221,15 +221,14 @@ The workshop will conclude with a panel discussion bringing together different p
 
 | Time | Activity | Details |
 |---|---|---|
-| 1:00 – 1:10 PM | Welcome | Introductory remarks |
-| 1:10 – 1:50 PM | Keynote 1 | Industry keynote — Aaron Katz |
-| 1:50 – 2:30 PM | Keynote 2 | Academic keynote — Andy Pavlo |
-| 2:30 – 2:50 PM | Contributions | Lightning talks |
-| 2:50 – 3:00 PM | Break | Coffee break |
-| 3:00 – 3:25 PM | Contributions | Lightning talks |
-| 3:25 – 4:05 PM | Keynote 3 | Invited keynote — TBD |
-| 4:05 – 4:55 PM | Panel | Moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/) |
-| 4:55 – 5:00 PM | Closing | Closing remarks |
+| 1:30 – 1:40 PM | Welcome | Introductory remarks |
+| 1:40 – 2:20 PM | Keynote 1 | Industry keynote — Aaron Katz |
+| 2:20 – 3:00 PM | Keynote 2 | Academic keynote — Andy Pavlo |
+| 3:00 – 4:00 PM | Contributions | Lightning talks |
+| 4:00 – 4:20 PM | Break | Coffee break |
+| 4:20 – 5:00 PM | Keynote 3 | Invited keynote — Nikita Shamgunov |
+| 5:00 – 5:55 PM | Panel | Moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/) |
+| 5:55 – 6:00 PM | Closing | Closing remarks |
 | After hours | Pizza, drinks, and awards | Informal discussion and awards |
 
 ---
