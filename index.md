@@ -19,23 +19,29 @@ title: Supporting Our AI Overlords (SAO)
 
 Today's data systems were designed for a small number of careful human operators. But a growing share of analytics, data engineering, and ML workflows is increasingly being delegated to AI agents. This workshop will bring together researchers and practitioners to study how data systems should evolve for agents, and how agents themselves can help shape better systems.
 
-The workshop is born out of recent work in data management (e.g. [Supporting Our AI Overlords](https://arxiv.org/pdf/2509.00997) and [Trustworthy AI in the Agentic Lakehouse](https://arxiv.org/abs/2511.16402)), but generalizes to other directions at the intersection of data and agents. Our goal is to explore the full design space where **data systems and AI agents meet**, and we are open to creative interpretations of the theme (including demos, lessons from the trenches, preliminary results, controversial positions, and failure stories).
+The workshop is born out of recent work in [data](https://arxiv.org/pdf/2509.00997) [management](https://arxiv.org/abs/2511.16402), but generalizes to other directions at the intersection of data and agents. Our goal is to explore the full design space where **data systems and AI agents meet**, and we are open to creative interpretations of the theme.
+
+<div style="border-left: 4px solid #2e7d32; background: #f1f8e9; padding: 12px 16px; margin: 16px 0;">
+  <strong>🍻 Join the happy hour!</strong> Awards, drinks, and networking with speakers, PC members, and attendees continue after the workshop — sponsored by our partners. <a href="https://luma.com/4v94jpzz?tk=zBTIdz" target="_blank"><strong>Save your spot →</strong></a>
+</div>
 
 - [Organizers](#organizers)
 - [Invited Speakers](#invited-speakers)
-- [Call for Papers](#call-for-papers)
 - [Awards](#awards)
-- [Important Dates](#important-dates)
 - [Panel](#panel)
 - [Program](#program-tentative)
+- [Important Dates](#important-dates)
+- [Call for Papers](#call-for-papers)
 - [Contact](#contact)
 
-The workshop is sponsored by <a href="https://www.mozilla.ai/" target="_blank">Mozilla AI</a> and <a href="https://www.bauplanlabs.com/" target="_blank">Bauplan Labs</a>.
+### Sponsors
 
 <p>
-  <a href="https://www.mozilla.ai/" target="_blank"><img src="images/mozillaai-logo-black.png" alt="Mozilla AI" height="40"></a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.bauplanlabs.com/" target="_blank"><img src="images/bauplan-logo-color-on-white.png" alt="Bauplan Labs" height="60"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mozilla.ai/" target="_blank"><img src="images/mozillaai-logo-black.png" alt="Mozilla AI" height="40"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img src="images/MongoDB_ForestGreen.png" alt="MongoDB" height="40"></a>
 </p>
 
 ## Organizers
@@ -91,7 +97,7 @@ The workshop is sponsored by <a href="https://www.mozilla.ai/" target="_blank">M
     <td align="center" width="33%">
       <img src="images/Aaron_Katz.jpeg" alt="Aaron Katz" width="160" height="160" class="organizer-img"><br><br>
       <strong>Aaron Katz</strong><br>
-      <em>ClickHouse, Inc.</em>
+      <em>ClickHouse</em>
     </td>
     <td align="center" width="33%">
       <img src="images/Nikita-Shamgunov.png" alt="Nikita Shamgunov" width="160" height="160" class="organizer-img"><br><br>
@@ -111,80 +117,14 @@ The workshop is sponsored by <a href="https://www.mozilla.ai/" target="_blank">M
 
 ---
 
-## Call for Papers
-
-We invite submissions on the emerging intersection of **AI agents** and **data systems**. Drawing from the workshop [manifesto](papers/CAIS_2026_workshop_online.pdf), we are mainly interested in contributions along these research directions:
-
-1. **Productionizing agentic workloads.** Capturing the nuances of agentic reasoning and engineering techniques across the entire data lifecycle.
-2. **Optimizing agent semantics.** Exploring the transition from deterministic SQL execution to agent-driven pipelines.
-3. **Data systems for agents.** Rethinking core system guarantees from the ground up to support non-human workloads.
-4. **Agents for system design.** Exploring the "self-driving" potential of the stack, where agents autonomously design, tune, and maintain the very infrastructure they inhabit.
-
-Examples of topics include, but are not limited to:
-
-- Agent-first OLAP architectures for safe, reproducible, and cost-efficient analytics
-- Agentic analytics workflows, including human-in-the-loop patterns and production failure modes
-- Evaluation methodologies, benchmarks, and workload traces for data agents
-- LLM-assisted optimization and tuning for data systems
-- War stories and postmortems from production deployments
-- Agentic workflows for data engineering and data science
-- Operational reliability for agent-driven automation, including observability, guardrails, governance, and cost controls
-- Work-in-progress and early-stage results that showcase novel ideas or promising directions, even if not yet fully evaluated
-
-Generally speaking, we will be open to creative interpretations of the workshop themes as long as contributions sit at the intersection of data and agents.
-
-**[Submit your paper here](https://sao-cais26workshop.hotcrp.com/)**
-
-### Submission formats
-
-We solicit:
-
-- **Short research and position papers**: up to 4 pages plus references
-- **Late-breaking results / extended abstracts**: up to 2 pages plus references
-
-*Format*: The ACM sigconf double-column format ([templates here, including Overleaf](https://www.acm.org/publications/proceedings-template)) should be used for all submissions.
-
-Submissions will be reviewed in a **single-blind** process by members of the committee. We welcome overlapping submissions with other venues: SAO is non-archival, but accepted papers will be featured on the website. Extended abstracts are particularly encouraged for work-in-progress ideas and early-stage explorations. Production war stories and postmortems need not be technically novel as long as they provide interesting insights and lessons relevant to the workshop theme. Accepted contributions will be presented at the workshop, and accepted materials will also be archived on the workshop website. For more background, recent relevant literature, and inspiring use cases, see our [workshop proposal](papers/CAIS_2026_workshop_online.pdf).
-
-### Program Committee
-
-- **Aldrin Montana** — Bauplan Labs
-- **Alperen Keleş** — University of Maryland
-- **Bonnie Xu** — OpenAI
-- **Davide Eynard** — Mozilla AI
-- **Eugene Wu** — Columbia University
-- **Federico Bianchi** — Together AI
-- **Gaetano Rossiello** — IBM
-- **Jeremiah Milbauer** — CMU
-- **Joseph Axisa** — Google
-- **Nandana Mihindukulasooriya** — IBM
-- **Nicole Rose Schneider** — University of Maryland
-- **Sesh Nalla** — Datadog
-- **Stephanie Wang** — MongoDB
-- **Tao Ye** — Lyft
-- **Till Döhmen** — MotherDuck
-
----
-
 ## Awards
 
 We are pleased to offer awards for outstanding contributions:
 
-- **Best Paper Award** — with a monetary prize, recognizing the strongest accepted contribution to the workshop.
-- **Best Student-Led Paper Award** — with a monetary prize, for the best paper with a student as the primary author.
+- **MongoDB Best Paper Award** — $1,000, recognizing the strongest accepted contribution to the workshop.
+- **Mozilla Best Student Paper Award** — $1,000, for the best paper with a student as the primary author.
 
-Awards will be presented at the end of the day during a social gathering with drinks and informal discussion. Stay tuned!
-
----
-
-## Important Dates
-
-| Milestone | Date |
-|---|---|
-| Submission deadline | Tue, May 5, 2026 |
-| Accept / reject notification | Fri, May 8, 2026 |
-| Camera-ready | Tue, May 12, 2026 |
-| Workshop | Tue, May 26, 2026 |
+Awards will be presented at the end of the day during a [social gathering](https://luma.com/4v94jpzz?tk=zBTIdz) with drinks and informal discussion — [register for the happy hour](https://luma.com/4v94jpzz?tk=zBTIdz) to save your spot!
 
 ---
 
@@ -222,14 +162,78 @@ The workshop will conclude with a panel discussion bringing together different p
 | Time | Activity | Details |
 |---|---|---|
 | 1:30 – 1:40 PM | Welcome | Introductory remarks |
-| 1:40 – 2:20 PM | Keynote 1 | Industry keynote — Aaron Katz |
-| 2:20 – 3:00 PM | Keynote 2 | Academic keynote — Andy Pavlo |
+| 1:40 – 2:20 PM | Keynote | Aaron Katz |
+| 2:20 – 3:00 PM | Keynote | Andy Pavlo |
 | 3:00 – 4:00 PM | Contributions | Lightning talks |
 | 4:00 – 4:20 PM | Break | Coffee break |
-| 4:20 – 5:00 PM | Keynote 3 | Invited keynote — Nikita Shamgunov |
+| 4:20 – 5:00 PM | Keynote | Nikita Shamgunov |
 | 5:00 – 5:55 PM | Panel | Moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/) |
 | 5:55 – 6:00 PM | Closing | Closing remarks |
-| After hours | Pizza, drinks, and awards | Informal discussion and awards |
+| After hours | [Happy hour, drinks, and awards](https://luma.com/4v94jpzz?tk=zBTIdz) | [Register here](https://luma.com/4v94jpzz?tk=zBTIdz) |
+
+---
+
+## Important Dates
+
+| Milestone | Date |
+|---|---|
+| Submission deadline | Tue, May 5, 2026 |
+| Accept / reject notification | Fri, May 8, 2026 |
+| Camera-ready | Tue, May 12, 2026 |
+| Workshop | Tue, May 26, 2026 |
+
+---
+
+## Call for Papers
+
+We invite submissions on the emerging intersection of **AI agents** and **data systems**. Drawing from the workshop [manifesto](papers/CAIS_2026_workshop_online.pdf), we are mainly interested in contributions along these research directions:
+
+1. **Productionizing agentic workloads.** Capturing the nuances of agentic reasoning and engineering techniques across the entire data lifecycle.
+2. **Optimizing agent semantics.** Exploring the transition from deterministic SQL execution to agent-driven pipelines.
+3. **Data systems for agents.** Rethinking core system guarantees from the ground up to support non-human workloads.
+4. **Agents for system design.** Exploring the "self-driving" potential of the stack, where agents autonomously design, tune, and maintain the very infrastructure they inhabit.
+
+Examples of topics include, but are not limited to:
+
+- Agent-first OLAP architectures for safe, reproducible, and cost-efficient analytics
+- Agentic analytics workflows, including human-in-the-loop patterns and production failure modes
+- Evaluation methodologies, benchmarks, and workload traces for data agents
+- LLM-assisted optimization and tuning for data systems
+- War stories and postmortems from production deployments
+- Agentic workflows for data engineering and data science
+- Operational reliability for agent-driven automation, including observability, guardrails, governance, and cost controls
+- Work-in-progress and early-stage results that showcase novel ideas or promising directions, even if not yet fully evaluated
+
+**[Submit your paper here](https://sao-cais26workshop.hotcrp.com/)**
+
+### Submission formats
+
+We solicit:
+
+- **Short research and position papers**: up to 4 pages plus references
+- **Late-breaking results / extended abstracts**: up to 2 pages plus references
+
+*Format*: The ACM sigconf double-column format ([templates here, including Overleaf](https://www.acm.org/publications/proceedings-template)) should be used for all submissions.
+
+Submissions will be reviewed in a **single-blind** process by members of the committee. We welcome overlapping submissions with other venues: SAO is non-archival, but accepted papers will be featured on the website. Extended abstracts are particularly encouraged for work-in-progress ideas and early-stage explorations. Production war stories and postmortems need not be technically novel as long as they provide interesting insights and lessons relevant to the workshop theme. Accepted contributions will be presented at the workshop, and accepted materials will also be archived on the workshop website. For more background, recent relevant literature, and inspiring use cases, see our [workshop proposal](papers/CAIS_2026_workshop_online.pdf).
+
+### Program Committee
+
+- **Aldrin Montana** — Bauplan Labs
+- **Alperen Keleş** — University of Maryland
+- **Bonnie Xu** — OpenAI
+- **Davide Eynard** — Mozilla AI
+- **Eugene Wu** — Columbia University
+- **Federico Bianchi** — Together AI
+- **Gaetano Rossiello** — IBM
+- **Jeremiah Milbauer** — CMU
+- **Joseph Axisa** — Google
+- **Nandana Mihindukulasooriya** — IBM
+- **Nicole Rose Schneider** — University of Maryland
+- **Sesh Nalla** — Datadog
+- **Stephanie Wang** — MongoDB
+- **Tao Ye** — Lyft
+- **Till Döhmen** — MotherDuck
 
 ---
 
