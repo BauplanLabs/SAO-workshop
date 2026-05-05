@@ -130,7 +130,7 @@ Awards will be presented at the end of the day during a [social gathering](https
 
 ## Panel
 
-The workshop will conclude with a panel discussion bringing together different perspectives on agentic data systems, from infrastructure and optimization to safety and deployment. The panel will be moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/). More panelists will be added soon.
+The workshop will conclude with a panel discussion bringing together different perspectives on agentic data systems, from infrastructure and optimization to safety and deployment. The panel will be moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/).
 
 <table>
   <tr>
