@@ -122,7 +122,7 @@ The workshop is born out of recent work in [data](https://arxiv.org/pdf/2509.009
 We are pleased to offer awards for outstanding contributions:
 
 - **MongoDB Best Paper Award** — $1,000, recognizing the strongest accepted contribution to the workshop.
-- **Mozilla Best Student Paper Award** — $1,000, for the best paper with a student as the primary author.
+- **Best Student Paper Award** — $1,000, for the best paper with a student as the primary author.
 
 Awards will be presented at the end of the day during a [social gathering](https://luma.com/4v94jpzz?tk=zBTIdz) with drinks and informal discussion — [register for the happy hour](https://luma.com/4v94jpzz?tk=zBTIdz) to save your spot!
 
@@ -134,15 +134,20 @@ The workshop will conclude with a panel discussion bringing together different p
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img src="images/Ashish_Kumar.jpg" alt="Ashish Kumar" width="160" height="160" class="organizer-img"><br><br>
       <strong>Ashish Kumar</strong><br>
       <em>MongoDB</em>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img src="images/Anant_Jhingran.png" alt="Anant Jhingran" width="160" height="160" class="organizer-img"><br><br>
       <strong>Anant Jhingran</strong><br>
       <em>IBM Software</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="images/Junaid_Ahmed.JPG" alt="Junaid Ahmed" width="160" height="160" class="organizer-img"><br><br>
+      <strong>Junaid Ahmed</strong><br>
+      <em>Datadog</em>
     </td>
   </tr>
 </table>
@@ -152,6 +157,8 @@ The workshop will conclude with a panel discussion bringing together different p
 **Ashish Kumar** — Ashish Kumar is a Technical Fellow at MongoDB, where he focuses on architectural improvements across the company's product offerings. He joined MongoDB through the acquisition of Grainite, where he was Co-Founder and CEO. At Grainite, he led the development of a first-of-its-kind transactional database unifying native stream storage and parallel processing. Previously, Ashish spent 11 years as a Senior Engineering Director at Google, most recently leading the teams responsible for BigTable, Spanner, Datastore, and Firestore. During his tenure at Google, he also managed teams across Hardware, Display Ads, and Developer Tools. Earlier in his career, Ashish held executive roles at Sun Microsystems and infrastructure startups. He holds a Bachelor's in Business from SRCC, Delhi University.
 
 **Anant Jhingran** — Anant Jhingran is CTO for IBM Software, a role he took on when StepZen — the GraphQL API company he co-founded and led as CEO — was acquired by IBM in February 2023. Before StepZen, he helped take Apigee public and through its acquisition by Google. Earlier at IBM, he was an IBM Fellow and CTO of the Information Management Division, shipping products that generated billions in revenue across IBM and Apigee. He holds a PhD in database systems from UC Berkeley and is a Distinguished Alumnus of IIT Delhi, with over a dozen patents and 20+ technical papers to his name.
+
+**Junaid Ahmed** — Junaid Ahmed is Vice President of Engineering at Datadog, where he leads the Applications pillars of Observability including several AI efforts and helping evolve Datadog's offering for the agentic future. Before Datadog, he held senior engineering leadership roles as Director of Engineering at Apple and General Manager at Microsoft, working on large-scale problems in search, advertising, recommendations, and deep learning. He is the co-author of several papers including research on "Approximate Nearest Neighbor methods for Dense Text Retrieval" (ICLR 2021) and holds 20+ patents in search ranking, content understanding, and neural information retrieval. Junaid studied at the University of Washington.
 
 ---
 
@@ -164,11 +171,10 @@ The workshop will conclude with a panel discussion bringing together different p
 | 1:30 – 1:40 PM | Welcome | Introductory remarks |
 | 1:40 – 2:20 PM | Keynote | Aaron Katz |
 | 2:20 – 3:00 PM | Keynote | Andy Pavlo |
-| 3:00 – 4:00 PM | Contributions | Lightning talks |
-| 4:00 – 4:20 PM | Break | Coffee break |
-| 4:20 – 5:00 PM | Keynote | Nikita Shamgunov |
-| 5:00 – 5:55 PM | Panel | Moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/) |
-| 5:55 – 6:00 PM | Closing | Closing remarks |
+| 3:00 – 3:30 PM | Break | Coffee break |
+| 3:30 – 4:30 PM | Contributions | Lightning talks |
+| 4:30 – 5:10 PM | Keynote | Nikita Shamgunov |
+| 5:10 – 6:00 PM | Panel & closing | Moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/) |
 | After hours | [Happy hour, drinks, and awards](https://luma.com/4v94jpzz?tk=zBTIdz) | [Register here](https://luma.com/4v94jpzz?tk=zBTIdz) |
 
 ---
@@ -177,7 +183,7 @@ The workshop will conclude with a panel discussion bringing together different p
 
 | Milestone | Date |
 |---|---|
-| Submission deadline | Tue, May 5, 2026 |
+| ~~Submission deadline~~ | ~~Tue, May 5, 2026~~ |
 | Accept / reject notification | Fri, May 8, 2026 |
 | Camera-ready | Tue, May 12, 2026 |
 | Workshop | Tue, May 26, 2026 |
