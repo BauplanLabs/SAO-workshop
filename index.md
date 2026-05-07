@@ -36,13 +36,11 @@ The workshop is born out of recent work in [data](https://arxiv.org/pdf/2509.009
 
 ### Sponsors
 
-<p>
-  <a href="https://www.bauplanlabs.com/" target="_blank"><img src="images/bauplan-logo-color-on-white.png" alt="Bauplan Labs" height="60"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mozilla.ai/" target="_blank"><img src="images/mozillaai-logo-black.png" alt="Mozilla AI" height="40"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank"><img src="images/MongoDB_ForestGreen.png" alt="MongoDB" height="40"></a>
-</p>
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: wrap; gap: 48px; margin: 16px 0;">
+  <a href="https://www.bauplanlabs.com/" target="_blank"><img src="images/bauplan-logo-color-on-white.png" alt="Bauplan Labs" style="height: 45px; width: auto; display: block;"></a>
+  <a href="https://www.mozilla.ai/" target="_blank"><img src="images/mozillaai-logo-black.png" alt="Mozilla AI" style="height: 45px; width: auto; display: block;"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="images/MongoDB_ForestGreen.png" alt="MongoDB" style="height: 45px; width: auto; display: block;"></a>
+</div>
 
 ## Organizers
 
@@ -134,20 +132,25 @@ The workshop will conclude with a panel discussion bringing together different p
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="images/Ashish_Kumar.jpg" alt="Ashish Kumar" width="160" height="160" class="organizer-img"><br><br>
       <strong>Ashish Kumar</strong><br>
       <em>MongoDB</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="images/Anant_Jhingran.png" alt="Anant Jhingran" width="160" height="160" class="organizer-img"><br><br>
       <strong>Anant Jhingran</strong><br>
       <em>IBM Software</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="images/Junaid_Ahmed.JPG" alt="Junaid Ahmed" width="160" height="160" class="organizer-img"><br><br>
       <strong>Junaid Ahmed</strong><br>
       <em>Datadog</em>
+    </td>
+    <td align="center" width="25%">
+      <img src="images/Anupam_Datta.jpg" alt="Anupam Datta" width="160" height="160" class="organizer-img"><br><br>
+      <strong>Anupam Datta</strong><br>
+      <em>Snowflake</em>
     </td>
   </tr>
 </table>
@@ -159,6 +162,8 @@ The workshop will conclude with a panel discussion bringing together different p
 **Anant Jhingran** — Anant Jhingran is CTO for IBM Software, a role he took on when StepZen — the GraphQL API company he co-founded and led as CEO — was acquired by IBM in February 2023. Before StepZen, he helped take Apigee public and through its acquisition by Google. Earlier at IBM, he was an IBM Fellow and CTO of the Information Management Division, shipping products that generated billions in revenue across IBM and Apigee. He holds a PhD in database systems from UC Berkeley and is a Distinguished Alumnus of IIT Delhi, with over a dozen patents and 20+ technical papers to his name.
 
 **Junaid Ahmed** — Junaid Ahmed is Vice President of Engineering at Datadog, where he leads the Applications pillars of Observability including several AI efforts and helping evolve Datadog's offering for the agentic future. Before Datadog, he held senior engineering leadership roles as Director of Engineering at Apple and General Manager at Microsoft, working on large-scale problems in search, advertising, recommendations, and deep learning. He is the co-author of several papers including research on "Approximate Nearest Neighbor methods for Dense Text Retrieval" (ICLR 2021) and holds 20+ patents in search ranking, content understanding, and neural information retrieval. Junaid studied at the University of Washington.
+
+**Anupam Datta** — Anupam Datta is Principal Research Scientist and Snowflake AI Research Lead at Snowflake, which he joined through the acquisition of TruEra in 2024. He was Co-Founder and Chief Scientist of TruEra from 2019 to 2024, building tools for trustworthy AI evaluation and observability. Before TruEra, Anupam was a tenured Professor of Electrical & Computer Engineering and Computer Science at Carnegie Mellon University from 2007 to 2022, where he remains an Adjunct Professor; his research spans trustworthy AI, including evaluation, explainability, fairness, and robustness of ML and GenAI systems. He holds a Ph.D. and M.S. in Computer Science from Stanford University and a B.Tech. in Computer Science and Engineering from IIT Kharagpur.
 
 ---
 
