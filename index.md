@@ -32,6 +32,7 @@ The workshop is born out of recent work in [data](https://arxiv.org/pdf/2509.009
 - [Program](#program-tentative)
 - [Important Dates](#important-dates)
 - [Call for Papers](#call-for-papers)
+- [Accepted Papers](#accepted-papers)
 - [Contact](#contact)
 
 ### Sponsors
@@ -122,7 +123,7 @@ We are pleased to offer awards for outstanding contributions:
 - **MongoDB Best Paper Award** — $1,000, recognizing the strongest accepted contribution to the workshop.
 - **Best Student Paper Award** — $1,000, for the best paper with a student as the primary author.
 
-Awards will be presented at the end of the day during a [social gathering](https://luma.com/4v94jpzz?tk=zBTIdz) with drinks and informal discussion — [register for the happy hour](https://luma.com/4v94jpzz?tk=zBTIdz) to save your spot!
+Awards will be presented at the end of the day during a [social gathering](https://luma.com/4v94jpzz) with drinks and informal discussion — [register for the happy hour](https://luma.com/4v94jpzz) to save your spot!
 
 ---
 
@@ -180,7 +181,7 @@ The workshop will conclude with a panel discussion bringing together different p
 | 3:30 – 4:30 PM | Contributions | Lightning talks |
 | 4:30 – 5:10 PM | Keynote | Nikita Shamgunov |
 | 5:10 – 6:00 PM | Panel & closing | Moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/) |
-| After hours | [Happy hour, drinks, and awards](https://luma.com/4v94jpzz?tk=zBTIdz) | [Register here](https://luma.com/4v94jpzz?tk=zBTIdz) |
+| After hours | [Happy hour, drinks, and awards](https://luma.com/4v94jpzz) | [Register here](https://luma.com/4v94jpzz) |
 
 ---
 
@@ -189,8 +190,8 @@ The workshop will conclude with a panel discussion bringing together different p
 | Milestone | Date |
 |---|---|
 | ~~Submission deadline~~ | ~~Tue, May 5, 2026~~ |
-| Accept / reject notification | Fri, May 8, 2026 |
-| Camera-ready | Tue, May 12, 2026 |
+| Accept / reject notification | Mon, May 11, 2026 |
+| Camera-ready | Fri, May 15, 2026 |
 | Workshop | Tue, May 26, 2026 |
 
 ---
@@ -222,6 +223,8 @@ We solicit:
 - **Short research and position papers**: up to 4 pages plus references
 - **Late-breaking results / extended abstracts**: up to 2 pages plus references
 
+All submissions must use the [ACM sigconf double-column format](https://www.acm.org/publications/proceedings-template).
+
 Submissions are reviewed in a **single-blind** process by members of the committee. We welcome overlapping submissions with other venues: SAO is non-archival, but accepted papers will be featured on the website. For more background, recent relevant literature, and inspiring use cases, see our [workshop proposal](papers/CAIS_2026_workshop_online.pdf).
 
 ### Program Committee
@@ -233,7 +236,6 @@ Submissions are reviewed in a **single-blind** process by members of the committ
 - **Eugene Wu** — Columbia University
 - **Federico Bianchi** — Together AI
 - **Gaetano Rossiello** — IBM
-- **Jeremiah Milbauer** — CMU
 - **Joseph Axisa** — Google
 - **Nandana Mihindukulasooriya** — IBM
 - **Nicole Rose Schneider** — University of Maryland
@@ -241,6 +243,12 @@ Submissions are reviewed in a **single-blind** process by members of the committ
 - **Stephanie Wang** — MongoDB
 - **Tao Ye** — Lyft
 - **Till Döhmen** — MotherDuck
+
+---
+
+## Accepted Papers
+
+Accepted papers will be published here as soon as the final program is available.
 
 ---
 
