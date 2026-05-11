@@ -190,8 +190,8 @@ The workshop will conclude with a panel discussion bringing together different p
 | Milestone | Date |
 |---|---|
 | ~~Submission deadline~~ | ~~Tue, May 5, 2026~~ |
-| Accept / reject notification | Mon, May 11, 2026 |
-| Camera-ready | Fri, May 15, 2026 |
+| ~~Accept / reject notification~~ | ~~Mon, May 11, 2026~~ |
+| Camera-ready | Sun, May 17, 2026 |
 | Workshop | Tue, May 26, 2026 |
 
 ---
