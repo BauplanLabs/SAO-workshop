@@ -41,6 +41,7 @@ The workshop is born out of recent work in [data](https://arxiv.org/pdf/2509.009
   <a href="https://www.bauplanlabs.com/" target="_blank"><img src="images/bauplan-logo-color-on-white.png" alt="Bauplan Labs" style="height: 45px; width: auto; display: block;"></a>
   <a href="https://www.mozilla.ai/" target="_blank"><img src="images/mozillaai-logo-black.png" alt="Mozilla AI" style="height: 45px; width: auto; display: block;"></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="images/MongoDB_ForestGreen.png" alt="MongoDB" style="height: 45px; width: auto; display: block;"></a>
+  <a href="https://www.datadoghq.com/" target="_blank"><img src="images/datadog.png" alt="Datadog" style="height: 45px; width: auto; display: block;"></a>
 </div>
 
 ## Organizers
@@ -121,7 +122,7 @@ The workshop is born out of recent work in [data](https://arxiv.org/pdf/2509.009
 We are pleased to offer awards for outstanding contributions:
 
 - **MongoDB Best Paper Award** — $1,000, recognizing the strongest accepted contribution to the workshop.
-- **Best Student Paper Award** — $1,000, for the best paper with a student as the primary author.
+- **Datadog Best Student Paper Award** — $1,000, for the best paper with a student as the primary author.
 
 Awards will be presented at the end of the day during a [social gathering](https://luma.com/4v94jpzz) with drinks and informal discussion — [register for the happy hour](https://luma.com/4v94jpzz) to save your spot!
 
@@ -181,7 +182,7 @@ The workshop will conclude with a panel discussion bringing together different p
 | 3:30 – 4:30 PM | Contributions | Lightning talks |
 | 4:30 – 5:10 PM | Keynote | Nikita Shamgunov |
 | 5:10 – 6:00 PM | Panel & closing | Moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/) |
-| After hours | [Happy hour, drinks, and awards](https://luma.com/4v94jpzz) | [Register here](https://luma.com/4v94jpzz) |
+| 6:30 PM - ? | [Happy hour, drinks, and awards](https://luma.com/4v94jpzz) | [Register here](https://luma.com/4v94jpzz) |
 
 ---
 
@@ -191,7 +192,7 @@ The workshop will conclude with a panel discussion bringing together different p
 |---|---|
 | ~~Submission deadline~~ | ~~Tue, May 5, 2026~~ |
 | ~~Accept / reject notification~~ | ~~Mon, May 11, 2026~~ |
-| Camera-ready | Sun, May 17, 2026 |
+| ~~Camera-ready~~ | ~~Sun, May 17, 2026~~ |
 | Workshop | Tue, May 26, 2026 |
 
 ---
@@ -225,7 +226,7 @@ We solicit:
 
 All submissions must use the [ACM sigconf double-column format](https://www.acm.org/publications/proceedings-template).
 
-Submissions are reviewed in a **single-blind** process by members of the committee. We welcome overlapping submissions with other venues: SAO is non-archival, but accepted papers will be featured on the website. For more background, recent relevant literature, and inspiring use cases, see our [workshop proposal](papers/CAIS_2026_workshop_online.pdf).
+Submissions are reviewed in a **single-blind** process by members of the committee. We welcome overlapping submissions with other venues (SAO is non-archival). For more background, recent relevant literature, and inspiring use cases, see our [workshop proposal](papers/CAIS_2026_workshop_online.pdf).
 
 ### Program Committee
 
@@ -248,7 +249,54 @@ Submissions are reviewed in a **single-blind** process by members of the committ
 
 ## Accepted Papers
 
-Accepted papers will be published here as soon as the final program is available.
+The program features contributions from leading academic and industry organizations, including Stanford, Columbia, NVIDIA, CoreWeave, IBM, MongoDB, Databricks, Bauplan, and many others.
+
+- **A Case for Simulation-Driven Resilience in Agent-First Data Systems** [(paper)](papers/9.pdf)  
+  <small>Aleksey Charapko, Murat Demirbas, Akshat Vig</small>
+- **A Query Engine for the Agents** [(paper)](papers/8.pdf)  
+  <small>Kenny Daniel</small>
+- **Agents for Data Streaming Tasks: The Missing Pieces** [(paper)](papers/16.pdf)  
+  <small>Shreesha Gopalakrishna Bhat, Landon Johnson, Michael Noguera, Aishwarya Ganesan, Ramnatthan Alagappan</small>
+- **Autonomous Agent Learning in Production** [(paper)](papers/86.pdf)  
+  <small>Xinhao Cheng, Patrick Coppock, Jianan Ji, Zhihao Jia, Vasilis Kypriotis, Dimitrios Skarlatos, Eliot Solomon, Zhihao Zhang, Yu Zhou</small>
+- **Beyond Semantic Similarity: Performance and Costs of Agentic Retrieval for Complex Tasks** [(paper)](papers/71.pdf)  
+  <small>Reza Esfandiarpoor, Radek Osmulski, Yauhen Babakhin, Gabriel de Souza P. Moreira, Oliver Holworthy, Jie He, Ronay Ak, Jiarui Cai, Ryan Chesler, Bo Liu, Even Oldridge</small>
+- **Beyond the Shell: Extending Agents with Reactive Python Notebooks** [(paper)](papers/45.pdf)  
+  <small>Trevor Manz, Myles Scolnick, Akshay Agrawal</small>
+- **BranchBench: An Extensible Benchmark for Agentic Database Branching** [(paper)](papers/37.pdf)  
+  <small>Elaine Ang, Sam Weldon, In Keun Kim, Kevin Durand, Kostis Kaffes, Eugene Wu</small>
+- **Colloquy (cq): Sharing Failure Modes to Help Agents** [(paper)](papers/89.pdf)  
+  <small>Peter Wilson, Daniel Nissani</small>
+- **Data Journalist Agent: Transforming Data into Trustworthy Multimodal Story** [(paper)](papers/2.pdf)  
+  <small>Kevin Qinghong Lin, Batu EI, Yuhong Shi, Pan Lu, Philip Torr, James Zou</small>
+- **Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems** [(paper)](papers/95.pdf)  
+  <small>Gaetano Rossiello, Dharmashankar Subramanian</small>
+- **Grounding Agent-Driven Code Optimization in Production Telemetry** [(paper)](papers/31.pdf)  
+  <small>Piotr Bejda, Junaid Ahmed</small>
+- **Lumilake: An Agentic Analytics Engine for AI4Science** [(paper)](papers/84.pdf)  
+  <small>Zhengyuan Su, Noppanat Wadlom, Junyi Shen, Yicong Huang, Wentao Wu, Yao Lu</small>
+- **Metaxy: Field-Level Metadata Management for Incremental Multimodal ML Pipelines** [(paper)](papers/6.pdf)  
+  <small>Daniel Gafni, Georg Heiler</small>
+- **Modular Monoliths: Agentic Analytical Database Architecture** [(paper)](papers/23.pdf)  
+  <small>Giuseppe Mazzotta, SJ Saidi, Mosha Pasumansky, Benjamin Wagner</small>
+- **Parsing Is Not Executing: Decentralized Compliance for Agentic Query Plan Routing** [(paper)](papers/42.pdf)  
+  <small>Ranjan Sinha</small>
+- **Querying Everything Everywhere All at Once** [(paper)](papers/69.pdf)  
+  <small>Jacopo Tagliabue, Aldrin Montana</small>
+- **Sophrosyne: Agentic Exploration of Relational Data Systems Needs Moderation** [(paper)](papers/81.pdf)  
+  <small>Madhav Jivrajani, Ramnatthan Alagappan, Aishwarya Ganesan</small>
+- **TexeraAgent: An AI-Agent for Data Science Using Dataflows** [(paper)](papers/48.pdf)  
+  <small>Jiadong Bai, Yicong Huang, Chen Li</small>
+- **The Hydration Proxy Pattern: Architecting Conversational Data Systems for Stateless LLM APIs** [(paper)](papers/85.pdf)  
+  <small>Joseph Axisa</small>
+- **The Importance of Out-of-Band Metadata for Safe Autonomous Agents: The Redpanda Agentic Data Plane** [(paper)](papers/18.pdf)  
+  <small>Tyler Akidau, Tyler Rockwood, Johannes Brüderl, Marc Millstone</small>
+- **Towards a Context Layer for Self-Improving Data Agents** [(paper)](papers/73.pdf)  
+  <small>Till Döhmen, Jacob Matson, Jordan Tigani</small>
+- **When Agents Outgrow RAG: Building Production Retrieval Systems in the Lakehouse** [(paper)](papers/87.pdf)  
+  <small>Chang She, Prashanth Rao</small>
+- **Workflow, Not Prose: A Multi-Agent Methodology for Data Agent** [(paper)](papers/28.pdf)  
+  <small>Chia-liang Kao, Kent Huang</small>
 
 ---
 
