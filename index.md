@@ -29,7 +29,7 @@ The workshop is born out of recent work in [data](https://arxiv.org/pdf/2509.009
 - [Invited Speakers](#invited-speakers)
 - [Awards](#awards)
 - [Panel](#panel)
-- [Program](#program-tentative)
+- [Program](#program)
 - [Important Dates](#important-dates)
 - [Call for Papers](#call-for-papers)
 - [Accepted Papers](#accepted-papers)
@@ -169,9 +169,9 @@ The workshop will conclude with a panel discussion bringing together different p
 
 ---
 
-## Program (Tentative)
+## Program
 
-**May 26, 2026 — In person in San Jose, California. The schedule below is subject to change.**
+**May 26, 2026 — In person in San Jose, California.**
 
 | Time | Activity | Details |
 |---|---|---|
@@ -182,7 +182,7 @@ The workshop will conclude with a panel discussion bringing together different p
 | 3:30 – 4:30 PM | Contributions | Lightning talks |
 | 4:30 – 5:10 PM | Keynote | Nikita Shamgunov |
 | 5:10 – 6:00 PM | Panel & closing | Moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/) |
-| 6:30 PM - ? | [Happy hour, drinks, and awards](https://luma.com/4v94jpzz) | [Register here](https://luma.com/4v94jpzz) |
+| 6:30 PM – 9:00 PM | [Happy hour, drinks, and awards](https://luma.com/4v94jpzz) | [Register here](https://luma.com/4v94jpzz) |
 
 ---
 
@@ -223,8 +223,6 @@ We solicit:
 
 - **Short research and position papers**: up to 4 pages plus references
 - **Late-breaking results / extended abstracts**: up to 2 pages plus references
-
-All submissions must use the [ACM sigconf double-column format](https://www.acm.org/publications/proceedings-template).
 
 Submissions are reviewed in a **single-blind** process by members of the committee. We welcome overlapping submissions with other venues (SAO is non-archival). For more background, recent relevant literature, and inspiring use cases, see our [workshop proposal](papers/CAIS_2026_workshop_online.pdf).
 
