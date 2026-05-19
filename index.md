@@ -287,7 +287,7 @@ The program features contributions from leading academic and industry organizati
   <small>Jiadong Bai, Yicong Huang, Chen Li</small>
 - **The Hydration Proxy Pattern: Architecting Conversational Data Systems for Stateless LLM APIs** [(paper)](papers/85.pdf)  
   <small>Joseph Axisa</small>
-- **The Importance of Out-of-Band Metadata for Safe Autonomous Agents: The Redpanda Agentic Data Plane** [(paper)](papers/18.pdf)  
+- **The Importance of Out-of-Band Metadata for Safe Autonomous Agents: The Redpanda Agentic Data Plane** [(paper)](papers/78.pdf)  
   <small>Tyler Akidau, Tyler Rockwood, Johannes Brüderl, Marc Millstone</small>
 - **Towards a Context Layer for Self-Improving Data Agents** [(paper)](papers/73.pdf)  
   <small>Till Döhmen, Jacob Matson, Jordan Tigani</small>
