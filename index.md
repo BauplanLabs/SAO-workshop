@@ -251,9 +251,9 @@ The program features contributions from leading academic and industry organizati
 
 - **A Case for Simulation-Driven Resilience in Agent-First Data Systems** [(paper)](papers/9.pdf)  
   <small>Aleksey Charapko, Murat Demirbas, Akshat Vig</small>
-- **A Query Engine for the Agents** [(paper)](papers/8.pdf)  
+- **A Query Engine for the Agents** [(paper)](papers/8.pdf) — **🌟 Spotlight**  
   <small>Kenny Daniel</small>
-- **Agents for Data Streaming Tasks: The Missing Pieces** [(paper)](papers/16.pdf)  
+- **Agents for Data Streaming Tasks: The Missing Pieces** [(paper)](papers/16.pdf) — **🌟 Spotlight**  
   <small>Shreesha Gopalakrishna Bhat, Landon Johnson, Michael Noguera, Aishwarya Ganesan, Ramnatthan Alagappan</small>
 - **Autonomous Agent Learning in Production** [(paper)](papers/86.pdf)  
   <small>Xinhao Cheng, Patrick Coppock, Jianan Ji, Zhihao Jia, Vasilis Kypriotis, Dimitrios Skarlatos, Eliot Solomon, Zhihao Zhang, Yu Zhou</small>
@@ -265,7 +265,7 @@ The program features contributions from leading academic and industry organizati
   <small>Elaine Ang, Sam Weldon, In Keun Kim, Kevin Durand, Kostis Kaffes, Eugene Wu</small>
 - **Colloquy (cq): Sharing Failure Modes to Help Agents** [(paper)](papers/89.pdf)  
   <small>Peter Wilson, Daniel Nissani</small>
-- **Data Journalist Agent: Transforming Data into Trustworthy Multimodal Story** [(paper)](papers/2.pdf)  
+- **Data Journalist Agent: Transforming Data into Trustworthy Multimodal Story** [(paper)](papers/2.pdf) — **🌟 Spotlight**  
   <small>Kevin Qinghong Lin, Batu EI, Yuhong Shi, Pan Lu, Philip Torr, James Zou</small>
 - **Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems** [(paper)](papers/95.pdf)  
   <small>Gaetano Rossiello, Dharmashankar Subramanian</small>
@@ -277,19 +277,19 @@ The program features contributions from leading academic and industry organizati
   <small>Daniel Gafni, Georg Heiler</small>
 - **Modular Monoliths: Agentic Analytical Database Architecture** [(paper)](papers/23.pdf)  
   <small>Giuseppe Mazzotta, SJ Saidi, Mosha Pasumansky, Benjamin Wagner</small>
-- **Parsing Is Not Executing: Decentralized Compliance for Agentic Query Plan Routing** [(paper)](papers/42.pdf)  
+- **Parsing Is Not Executing: Decentralized Compliance for Agentic Query Plan Routing** [(paper)](papers/42.pdf) — **🌟 Spotlight**  
   <small>Ranjan Sinha</small>
 - **Querying Everything Everywhere All at Once** [(paper)](papers/69.pdf)  
   <small>Jacopo Tagliabue, Aldrin Montana</small>
-- **Sophrosyne: Agentic Exploration of Relational Data Systems Needs Moderation** [(paper)](papers/81.pdf)  
+- **Sophrosyne: Agentic Exploration of Relational Data Systems Needs Moderation** [(paper)](papers/81.pdf) — **🌟 Spotlight**  
   <small>Madhav Jivrajani, Ramnatthan Alagappan, Aishwarya Ganesan</small>
-- **TexeraAgent: An AI-Agent for Data Science Using Dataflows** [(paper)](papers/48.pdf)  
+- **TexeraAgent: An AI-Agent for Data Science Using Dataflows** [(paper)](papers/48.pdf) — **🌟 Spotlight**  
   <small>Jiadong Bai, Yicong Huang, Chen Li</small>
 - **The Hydration Proxy Pattern: Architecting Conversational Data Systems for Stateless LLM APIs** [(paper)](papers/85.pdf)  
   <small>Joseph Axisa</small>
-- **The Importance of Out-of-Band Metadata for Safe Autonomous Agents: The Redpanda Agentic Data Plane** [(paper)](papers/78.pdf)  
+- **The Importance of Out-of-Band Metadata for Safe Autonomous Agents: The Redpanda Agentic Data Plane** [(paper)](papers/78.pdf) — **🌟 Spotlight**  
   <small>Tyler Akidau, Tyler Rockwood, Johannes Brüderl, Marc Millstone</small>
-- **Towards a Context Layer for Self-Improving Data Agents** [(paper)](papers/73.pdf)  
+- **Towards a Context Layer for Self-Improving Data Agents** [(paper)](papers/73.pdf) — **🌟 Spotlight**  
   <small>Till Döhmen, Jacob Matson, Jordan Tigani</small>
 - **When Agents Outgrow RAG: Building Production Retrieval Systems in the Lakehouse** [(paper)](papers/87.pdf)  
   <small>Chang She, Prashanth Rao</small>
