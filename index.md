@@ -27,7 +27,6 @@ The workshop is born out of recent work in [data](https://arxiv.org/pdf/2509.009
 
 - [Organizers](#organizers)
 - [Invited Speakers](#invited-speakers)
-- [Awards](#awards)
 - [Panel](#panel)
 - [Program](#program)
 - [Important Dates](#important-dates)
