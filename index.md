@@ -117,17 +117,6 @@ The workshop is born out of recent work in [data](https://arxiv.org/pdf/2509.009
 
 ---
 
-## Awards
-
-We are pleased to offer awards for outstanding contributions:
-
-- **MongoDB Best Paper Award** — $1,000, recognizing the strongest accepted contribution to the workshop.
-- **Datadog Best Student Paper Award** — $1,000, for the best paper with a student as the primary author.
-
-Awards will be presented at the end of the day during a [social gathering](https://luma.com/4v94jpzz) with drinks and informal discussion — [register for the happy hour](https://luma.com/4v94jpzz) to save your spot!
-
----
-
 ## Panel
 
 The workshop will conclude with a panel discussion bringing together different perspectives on agentic data systems, from infrastructure and optimization to safety and deployment. The panel will be moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/).
@@ -251,7 +240,7 @@ The program features contributions from leading academic and industry organizati
 
 - **A Case for Simulation-Driven Resilience in Agent-First Data Systems** [(paper)](papers/9.pdf)  
   <small>Aleksey Charapko, Murat Demirbas, Akshat Vig</small>
-- **A Query Engine for the Agents** [(paper)](papers/8.pdf) — **🌟 Spotlight** — **🏆 Best Paper Award**  
+- **A Query Engine for the Agents** [(paper)](papers/8.pdf) — **🌟 Spotlight** — **🏆 MongoDB Best Paper Award**  
   <small>Kenny Daniel</small>
 - **Agents for Data Streaming Tasks: The Missing Pieces** [(paper)](papers/16.pdf) — **🌟 Spotlight**  
   <small>Shreesha Gopalakrishna Bhat, Landon Johnson, Michael Noguera, Aishwarya Ganesan, Ramnatthan Alagappan</small>
@@ -281,7 +270,7 @@ The program features contributions from leading academic and industry organizati
   <small>Ranjan Sinha</small>
 - **Querying Everything Everywhere All at Once** [(paper)](papers/69.pdf)  
   <small>Jacopo Tagliabue, Aldrin Montana</small>
-- **Sophrosyne: Agentic Exploration of Relational Data Systems Needs Moderation** [(paper)](papers/81.pdf) — **🌟 Spotlight** — **🏆 Best Student Paper Award**  
+- **Sophrosyne: Agentic Exploration of Relational Data Systems Needs Moderation** [(paper)](papers/81.pdf) — **🌟 Spotlight** — **🏆 Datadog Best Student Paper Award**  
   <small>Madhav Jivrajani, Ramnatthan Alagappan, Aishwarya Ganesan</small>
 - **TexeraAgent: An AI-Agent for Data Science Using Dataflows** [(paper)](papers/48.pdf) — **🌟 Spotlight**  
   <small>Jiadong Bai, Yicong Huang, Chen Li</small>
