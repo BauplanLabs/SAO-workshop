@@ -251,7 +251,7 @@ The program features contributions from leading academic and industry organizati
 
 - **A Case for Simulation-Driven Resilience in Agent-First Data Systems** [(paper)](papers/9.pdf)  
   <small>Aleksey Charapko, Murat Demirbas, Akshat Vig</small>
-- **A Query Engine for the Agents** [(paper)](papers/8.pdf) — **🌟 Spotlight**  
+- **A Query Engine for the Agents** [(paper)](papers/8.pdf) — **🌟 Spotlight** — **🏆 Best Paper Award**  
   <small>Kenny Daniel</small>
 - **Agents for Data Streaming Tasks: The Missing Pieces** [(paper)](papers/16.pdf) — **🌟 Spotlight**  
   <small>Shreesha Gopalakrishna Bhat, Landon Johnson, Michael Noguera, Aishwarya Ganesan, Ramnatthan Alagappan</small>
@@ -281,7 +281,7 @@ The program features contributions from leading academic and industry organizati
   <small>Ranjan Sinha</small>
 - **Querying Everything Everywhere All at Once** [(paper)](papers/69.pdf)  
   <small>Jacopo Tagliabue, Aldrin Montana</small>
-- **Sophrosyne: Agentic Exploration of Relational Data Systems Needs Moderation** [(paper)](papers/81.pdf) — **🌟 Spotlight**  
+- **Sophrosyne: Agentic Exploration of Relational Data Systems Needs Moderation** [(paper)](papers/81.pdf) — **🌟 Spotlight** — **🏆 Best Student Paper Award**  
   <small>Madhav Jivrajani, Ramnatthan Alagappan, Aishwarya Ganesan</small>
 - **TexeraAgent: An AI-Agent for Data Science Using Dataflows** [(paper)](papers/48.pdf) — **🌟 Spotlight**  
   <small>Jiadong Bai, Yicong Huang, Chen Li</small>
