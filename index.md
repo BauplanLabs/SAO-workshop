@@ -165,7 +165,7 @@ The workshop will conclude with a panel discussion bringing together different p
 |---|---|---|---|
 | 1:30 – 1:40 PM | Welcome | Introductory remarks | [slides](slides/SAO_intro.pdf) |
 | 1:40 – 2:20 PM | Keynote | Aaron Katz | [slides](slides/keynote_aaron_katz.pdf) |
-| 2:20 – 3:00 PM | Keynote | Andy Pavlo | |
+| 2:20 – 3:00 PM | Keynote | Andy Pavlo | [slides](slides/pavlo-finalboss-may2026.pdf) |
 | 3:00 – 3:30 PM | Break | Coffee break | |
 | 3:30 – 4:30 PM | Contributions | Lightning talks | |
 | 4:30 – 5:10 PM | Keynote | Nikita Shamgunov | |
