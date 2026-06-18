@@ -253,7 +253,7 @@ The program features contributions from leading academic and industry organizati
   <small>Elaine Ang, Sam Weldon, In Keun Kim, Kevin Durand, Kostis Kaffes, Eugene Wu</small>
 - **Colloquy (cq): Sharing Failure Modes to Help Agents** [(paper)](papers/89.pdf)  
   <small>Peter Wilson, Daniel Nissani</small>
-- **Data Journalist Agent: Transforming Data into Trustworthy Multimodal Story** [(paper)](papers/2.pdf) — **🌟 Spotlight**  
+- **Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories** [(paper)](papers/2.pdf) — **🌟 Spotlight**  
   <small>Kevin Qinghong Lin, Batu EI, Yuhong Shi, Pan Lu, Philip Torr, James Zou</small>
 - **Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems** [(paper)](papers/95.pdf)  
   <small>Gaetano Rossiello, Dharmashankar Subramanian</small>
