@@ -167,7 +167,7 @@ The workshop will conclude with a panel discussion bringing together different p
 | 1:40 – 2:20 PM | Keynote | Aaron Katz | [slides](slides/keynote_aaron_katz.pdf) |
 | 2:20 – 3:00 PM | Keynote | Andy Pavlo | [slides](slides/pavlo-finalboss-may2026.pdf) |
 | 3:00 – 3:30 PM | Break | Coffee break | |
-| 3:30 – 4:30 PM | Contributions | Lightning talks | |
+| 3:30 – 4:30 PM | Contributions | Lightning talks | [master deck](slides/SAO_TALKS_MASTER_DECK.pdf) |
 | 4:30 – 5:10 PM | Keynote | Nikita Shamgunov | |
 | 5:10 – 6:00 PM | Panel & closing | Moderated by [Ciro Greco](https://www.linkedin.com/in/cirogreco/) | |
 | 6:30 PM – 9:00 PM | [Happy hour, drinks, and awards](https://luma.com/4v94jpzz) | [Register here](https://luma.com/4v94jpzz) | |
